@@ -49,9 +49,9 @@ Eg:C:\Users\sandya\AppData\Local\Programs\Python\Python36.
 1.app.py displays the list of customers,lists the subscription plan which is created manually.
 
   #Before running app.py follow the procedures which I mentioned
-   * To run the app.py in windoes command prompt follow the steps,
-                    * we should input the secret API KEY and publishable API KEY.
-                    * command is "set your secret API KEY"(not within the double quotes)
+   * To run the app.py in windows command prompt follow the steps,
+                    *  we should input the secret API KEY and publishable API KEY.
+                    *  command is "set your secret API KEY"(not within the double quotes)
                                   "set publishable API KEY"(not within the double quotes)
                     * After entering the api key type:python app.py
                     
